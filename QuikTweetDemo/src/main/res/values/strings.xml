@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">QuikTweetDemo</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+
+	<!--This is just a test app, but this data should be better protected-->
+	<string name="tweeter_consumer_key">3xIvizD9JmzEkC4ckXkA</string>
+	<string name="tweeter_consumer_secret">IXwhaOKUZUPv0rhLiAG5UUxNV9T4naV3XuGIVq3U0</string>
+
+
+	<!--Pull & LoadMore lib-->
+	<string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+	<string name="pull_to_refresh_release_label">Release to refresh...</string>
+	<string name="pull_to_refresh_refreshing_label">Loading...</string>
+	<string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+
+
+</resources>
